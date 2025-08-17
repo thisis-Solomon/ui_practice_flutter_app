@@ -78,6 +78,10 @@ flutter pub get
 # Run the app
 flutter run
 
+---
+
+# Project Structure
+
 lib/
 │
 ├── main.dart            # Entry point
